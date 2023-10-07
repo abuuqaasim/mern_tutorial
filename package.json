@@ -4,8 +4,7 @@
   "description": "Goalsetter app fro youtube tutorials",
   "main": "server.js",
   "scripts": {
-    "start": "node backend/server.js",
-    "server":"nodemon backend/server.js"
+    "start": "node backend/server.js"    
   },
   "keywords": [],
   "author": "ibnsulaimaan",
