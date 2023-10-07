@@ -1,0 +1,16 @@
+{
+  "name": "mern_tutorial",
+  "version": "1.0.0",
+  "description": "Goalsetter app fro youtube tutorials",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "server":"nodemon backend/server.js"
+  },
+  "keywords": [],
+  "author": "ibnsulaimaan",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
